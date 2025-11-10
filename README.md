@@ -4,17 +4,17 @@ An implementation of KSCNet (Exploring KAN and State Space Model for Small Objec
 KSCNet:Exploring KAN and State Space Model Collaboration Network for Small Object Detection from UAV Imagery.  [Expert System with Applications 2025]
 
 
-<img width="1000" height="1000" alt="main" src="https://github.com/user-attachments/assets/fefaabe9-5ae2-43c2-ac78-2f3a2c28f323" />
+<img width="600" height="600" alt="main" src="https://github.com/user-attachments/assets/fefaabe9-5ae2-43c2-ac78-2f3a2c28f323" />
 
 
-<img width="1000" height="1000" alt="coms1" src="https://github.com/user-attachments/assets/dd04a62f-d182-4dec-a3bf-f3e33a6bbdc6" />
+<img width="600" height="600" alt="coms1" src="https://github.com/user-attachments/assets/dd04a62f-d182-4dec-a3bf-f3e33a6bbdc6" />
 
 
-<img width="1000" height="1000" alt="coms2" src="https://github.com/user-attachments/assets/d12851b5-b07a-458a-bcae-e517786404e5" />
+<img width="600" height="600" alt="coms2" src="https://github.com/user-attachments/assets/d12851b5-b07a-458a-bcae-e517786404e5" />
 
 
 
-<img width="1000" height="1000" alt="coms3" src="https://github.com/user-attachments/assets/24df6260-c016-44da-8f85-63b39553029c" />
+<img width="600" height="600" alt="coms3" src="https://github.com/user-attachments/assets/24df6260-c016-44da-8f85-63b39553029c" />
 
 
 
