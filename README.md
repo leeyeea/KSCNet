@@ -24,6 +24,5 @@ journal = {Expert Systems with Applications},
 pages = {130240},
 year = {2025},
 issn = {0957-4174},
-doi = {https://doi.org/10.1016/j.eswa.2025.130240},
 author = {Yi Li and Huiying Xu and Yiming Sun and Pengfei Zhu and Lingling Xu and Xinzhong Zhu},
 }
