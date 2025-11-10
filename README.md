@@ -1,7 +1,7 @@
-##### KSCNet
+#### KSCNet
 An implementation of KSCNet (Exploring KAN and State Space Model for Small Object Detection from UAV Imagery )
 
-KSCNet:Exploring KAN and State Space Model Collaboration Network for Small Object Detection from UAV Imagery.  [Expert System with Applications 2025]
+#### KSCNet:Exploring KAN and State Space Model Collaboration Network for Small Object Detection from UAV Imagery.  [Expert System with Applications 2025]
 
 ##### Main architecture of KSCNet
 <img width="600" height="600" alt="main" src="https://github.com/user-attachments/assets/fefaabe9-5ae2-43c2-ac78-2f3a2c28f323" />
