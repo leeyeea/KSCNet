@@ -13,8 +13,7 @@ KSCNet:Exploring KAN and State Space Model Collaboration Network for Small Objec
 <img width="600" height="600" alt="coms2" src="https://github.com/user-attachments/assets/d12851b5-b07a-458a-bcae-e517786404e5" />
 
 
-##### Visualization of detection performance of KSCNet with advanced realtime YOLO detectors YOLO10s, YOLO11s and
-YOLOv12s on the VisDrone dataset
+##### Visualization of detection performance of KSCNet with advanced realtime YOLO detectors YOLO10s, YOLO11s and YOLOv12s on the VisDrone dataset
 <img width="600" height="600" alt="coms3" src="https://github.com/user-attachments/assets/24df6260-c016-44da-8f85-63b39553029c" />
 
 
